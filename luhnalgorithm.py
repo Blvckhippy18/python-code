@@ -20,3 +20,10 @@ result = is_luhn_valid(6499802450273568)
 print ("Correct:",  str(result))
 result = is_luhn_valid(8504172191273888)
 print ("Correct:" ,str(result))
+
+"""
+(a) 4137894711755904  = valid)
+(b) 6499802450273568   = invalid)
+(c) 8504172191273888    = valid
+(d)0043 6687 8348 5480   = invalid)
+"""
